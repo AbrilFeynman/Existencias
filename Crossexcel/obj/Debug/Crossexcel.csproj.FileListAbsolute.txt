@@ -1,0 +1,34 @@
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\bin\Debug\Crossexcel.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\bin\Debug\Crossexcel.exe
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\bin\Debug\Crossexcel.pdb
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\bin\Debug\Syncfusion.Compression.Base.dll
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\bin\Debug\Syncfusion.XlsIO.Base.dll
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\bin\Debug\Syncfusion.Compression.Base.xml
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\bin\Debug\Syncfusion.XlsIO.Base.xml
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\obj\Debug\Crossexcel.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\obj\Debug\Crossexcel.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\obj\Debug\Crossexcel.exe
+c:\users\user\documents\visual studio 2017\Projects\Crossexcel\Crossexcel\obj\Debug\Crossexcel.pdb
+C:\Users\user\Desktop\Crossexcel\Crossexcel\bin\Debug\Crossexcel.exe.config
+C:\Users\user\Desktop\Crossexcel\Crossexcel\bin\Debug\Crossexcel.exe
+C:\Users\user\Desktop\Crossexcel\Crossexcel\bin\Debug\Crossexcel.pdb
+C:\Users\user\Desktop\Crossexcel\Crossexcel\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\user\Desktop\Crossexcel\Crossexcel\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\user\Desktop\Crossexcel\Crossexcel\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\user\Desktop\Crossexcel\Crossexcel\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\user\Desktop\Crossexcel\Crossexcel\obj\Debug\Crossexcel.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Crossexcel\Crossexcel\obj\Debug\Crossexcel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Crossexcel\Crossexcel\obj\Debug\Crossexcel.exe
+C:\Users\user\Desktop\Crossexcel\Crossexcel\obj\Debug\Crossexcel.pdb
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\bin\Debug\Crossexcel.exe.config
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\bin\Debug\Crossexcel.exe
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\bin\Debug\Crossexcel.pdb
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\obj\Debug\Crossexcel.csprojAssemblyReference.cache
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\obj\Debug\Crossexcel.csproj.CoreCompileInputs.cache
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\obj\Debug\Crossexcel.csproj.CopyComplete
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\obj\Debug\Crossexcel.exe
+C:\Users\Abril\Downloads\ExistenciasExcel\Crossexcel\Crossexcel\obj\Debug\Crossexcel.pdb
